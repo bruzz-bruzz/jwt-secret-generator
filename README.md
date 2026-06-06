@@ -1,7 +1,7 @@
 # JWT Secret Generator
 A simple app built with Vite + React + Typescript that generates JWT Secrets for the user.
 ## Link to the app
-jwt-secret-generator-navy.vercel.app
+https://jwt-secret-generator-navy.vercel.app
 ## How it works
 ### My app utilises the window.crypto API to generate a random and higly secure key.
 ```typescript
